@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+<style>
+
+
+body { background-color:red;  }
+
+p{color: blanchedalmond ;}
+
+
+
+</style>
+</head>
+
+
+
+<body>
+    
+<h1> DAY LIGHT TRAVELS</h1>
+<hr>
+
+
+
+
+<h2> Who i am ? How can i help you today ?</h2>
+<P> My name is = G. manikandan and i am a 
+    Day light travels Proporter  </P>
+
+<h3> Whether you are booking a taxi in south india
+     or surveying the most important languages you
+      need to know</h3>
+
+
+<p> Language is an important requirement for 
+    booking a taxi in south india
+    most very very very.... impotant languages
+    Tamilnudu and Pondicherry people Speeking most
+    world 
+    oldest languge Tamil , Kerala people most speeking languge
+  malayalam , Andera Tirupati and Telangana 
+  Hydirabath pepul most Speeking Languge Telugu ,
+  Karnadaga Pepol most Sppeking languge Kandam and Hindi.
+
+
+
+</p>
+<P>about who Am? how can i do help whith you?
+     </P>
+<hr>
+
+<h2> Pondicherry to Chennai </h2>
+<h3> Pondicherry to Chennai MAA internationl airport
+     AND domstic airpot drop and Pickup cab service
+      24 & 7 = 365day taxi service. </h3> 
+ <h3> Chennai MAA indernatiol airport AND 
+    domsdic airport to Pondicherry drop and Pickup
+    taxi service 24 & 7 =365 day cab service.
+ </h3>
+
+ <p>
+Pondicherry to Chennai airport, single side drop 
+and pickup Taxi Cab car</P>
+<p>Toyota Etios Rs 2500, 
+Toyota innova Rs3800 to 4000 toll tex permit, 
+all incude Via ECR road, ,aximum time and kilometters
+ 3.00 hours maximum 150 kilometres </p>
+<hr>
+
+<h2> about address and Condect number  </h2>
+
+<h3> Pondicherry Lawspet and rediyarpalayam
+</h3>
+     <h4>+917200726022 
+    G.manikandan
+        </h4>
+
+
+</body>
+</html>
